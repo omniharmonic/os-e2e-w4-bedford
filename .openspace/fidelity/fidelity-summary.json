@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "score": 75,
+  "before": 66,
+  "changes": [
+    "h2: 25px, 25px on phones",
+    "h3: 16px, 16px on phones, tracking 0em",
+    "h2: in the label font, as on the original",
+    "h3: in the label font, as on the original",
+    "section padding on phones 35px",
+    "/contact-bedford: 1 section(s) at the narrow width, as on the original",
+    "/partners-bedford: 3 section(s) at the narrow width, as on the original",
+    "/projects-bedford: 1 section(s) at the narrow width, as on the original",
+    "button corners sharp",
+    "buttons on dark sections #36b3a8, as on the original",
+    "buttons on light sections #27aa9f, as on the original",
+    "/contact-bedford: section 1 507px tall, as on the original",
+    "/partners-bedford: section 1 507px tall, as on the original",
+    "/projects-bedford: section 1 507px tall, as on the original",
+    "/: section 3 recreated as a custom component",
+    "/: section 4 recreated as a custom component"
+  ],
+  "withoutComponents": 74,
+  "withComponents": 75,
+  "pages": [
+    {
+      "path": "/",
+      "device": "desktop",
+      "score": 80,
+      "before": 71,
+      "image": "thumb-home-d.jpg",
+      "differs": [
+        "Columns",
+        "Columns",
+        "Italic lines"
+      ]
+    },
+    {
+      "path": "/",
+      "device": "phone",
+      "score": 74,
+      "before": 73,
+      "image": "thumb-home-m.jpg",
+      "differs": [
+        "Present",
+        "Section padding",
+        "Italic lines"
+      ]
+    },
+    {
+      "path": "/contact-bedford",
+      "device": "desktop",
+      "score": 78,
+      "before": 57,
+      "image": "thumb-contact-bedford-d.jpg",
+      "differs": [
+        "Label font",
+        "Buttons size",
+        "Buttons letter spacing and case"
+      ]
+    },
+    {
+      "path": "/contact-bedford",
+      "device": "phone",
+      "score": 62,
+      "before": 44,
+      "image": "thumb-contact-bedford-m.jpg",
+      "differs": [
+        "Label font",
+        "Columns",
+        "Columns"
+      ]
+    },
+    {
+      "path": "/home-alt-bedford",
+      "device": "desktop",
+      "score": 69,
+      "before": 69,
+      "image": "thumb-home-alt-bedford-d.jpg",
+      "differs": [
+        "Present",
+        "Columns",
+        "Height"
+      ]
+    },
+    {
+      "path": "/home-alt-bedford",
+      "device": "phone",
+      "score": 59,
+      "before": 59,
+      "image": "thumb-home-alt-bedford-m.jpg",
+      "differs": [
+        "Present",
+        "Columns",
+        "Height"
+      ]
+    },
+    {
+      "path": "/partners-bedford",
+      "device": "desktop",
+      "score": 83,
+      "before": 71,
+      "image": "thumb-partners-bedford-d.jpg",
+      "differs": [
+        "Columns",
+        "Buttons size",
+        "Button corners"
+      ]
+    },
+    {
+      "path": "/partners-bedford",
+      "device": "phone",
+      "score": 65,
+      "before": 59,
+      "image": "thumb-partners-bedford-m.jpg",
+      "differs": [
+        "Present",
+        "Present",
+        "Columns"
+      ]
+    },
+    {
+      "path": "/projects-bedford",
+      "device": "desktop",
+      "score": 76,
+      "before": 63,
+      "image": "thumb-projects-bedford-d.jpg",
+      "differs": [
+        "Label font",
+        "Buttons size",
+        "Buttons letter spacing and case"
+      ]
+    },
+    {
+      "path": "/projects-bedford",
+      "device": "phone",
+      "score": 76,
+      "before": 69,
+      "image": "thumb-projects-bedford-m.jpg",
+      "differs": [
+        "Label font",
+        "Buttons size",
+        "Buttons letter spacing and case"
+      ]
+    },
+    {
+      "path": "/read-me-bedford",
+      "device": "desktop",
+      "score": 88,
+      "before": 78,
+      "image": "thumb-read-me-bedford-d.jpg",
+      "differs": [
+        "Content width",
+        "Columns",
+        "Columns"
+      ]
+    },
+    {
+      "path": "/read-me-bedford",
+      "device": "phone",
+      "score": 86,
+      "before": 78,
+      "image": "thumb-read-me-bedford-m.jpg",
+      "differs": [
+        "Height",
+        "Height",
+        "Height"
+      ]
+    }
+  ]
+}

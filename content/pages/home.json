@@ -1,16 +1,15 @@
 {
-  "$schema": "https://schema.openspace.host/v1/page.json",
-  "id": "pg_ee3wxhxj9w",
+  "id": "pg_y9mbf56tv7",
   "title": "Home",
   "slug": "",
   "seo": {
-    "title": null,
-    "description": "os-e2e-w4-bedford is being set up.",
-    "noindex": true
+    "title": "Bedford",
+    "description": "Sustainability   Starts with you    Learn More",
+    "image": "media/2026/10/bedford-foundation-c547.webp"
   },
   "sections": [
     {
-      "id": "sec_bwzy08r6p4",
+      "id": "sec_cr1t3ey0zp",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -18,22 +17,83 @@
             12
           ]
         },
-        "align": "center",
         "width": "narrow"
       },
       "style": {
-        "colorTheme": "light",
+        "colorTheme": "dark",
         "padding": {
-          "d": "xl",
-          "m": "lg"
+          "d": "2xl",
+          "m": "xl"
+        },
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/image-asset-6eq8.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.7
+          }
         },
         "minHeight": {
-          "d": "70vh"
+          "d": "88vh",
+          "m": "80svh"
         }
       },
       "blocks": [
         {
-          "id": "blk_nvhwtymrc9",
+          "id": "blk_34wqveyswj",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "Starts with you",
+            "level": "h2",
+            "size": "display",
+            "eyebrow": "Sustainability"
+          },
+          "variant": "plain",
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        },
+        {
+          "id": "blk_7ns98nxc8z",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Learn More",
+            "link": {
+              "type": "page",
+              "page": "pg_8rfgsjz5pf"
+            },
+            "role": "primary"
+          },
+          "variant": "default",
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "preset": "hero/full-bleed-photo@1"
+    },
+    {
+      "id": "sec_1nyghqn3rd",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_yh05w73rry",
           "type": "text",
           "v": 1,
           "fields": {
@@ -48,16 +108,43 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "os-e2e-w4-bedford"
+                      "text": "We conserve land through outreach, restoration, and research."
                     }
                   ]
                 }
               ]
             }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
           }
-        },
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_ygsn57azsa",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            2,
+            8,
+            2
+          ],
+          "m": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
         {
-          "id": "blk_gp8qs46xgy",
+          "id": "blk_k58xv4qnhw",
           "type": "text",
           "v": 1,
           "fields": {
@@ -69,11 +156,128 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "This site is being set up. Please check back soon."
+                      "text": "Some of the Earth's greatest landscapes are threatened by increased road construction, oil and gas exploration, and mining. We aim to protect these areas from inappropriate development, but we cannot achieve our goals alone. Find out how you can help."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "All photography provided by ",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "Jared Chambers",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://jaredchambers.com/",
+                            "newTab": true
+                          }
+                        },
+                        {
+                          "type": "italic"
+                        }
+                      ]
                     }
                   ]
                 }
               ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          },
+          "column": 1
+        }
+      ],
+      "preset": "starter/stack-2-8-2@1"
+    },
+    {
+      "id": "sec_j2bvs2rqhd",
+      "preset": "component/imported-home-3@1",
+      "label": "Section (as on the original)",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_qdj6b5wfnf",
+          "type": "component/imported-home-3",
+          "v": 1,
+          "fields": {
+            "image1": {
+              "src": "media/2026/10/image-asset-3xzg.webp",
+              "alt": "",
+              "width": 959,
+              "height": 719,
+              "mediaId": "med_3xzgq7kz0q"
+            },
+            "text2": "ABOUT",
+            "text3": "Find out about our organization, mission, our methods, and the results of our decades of advocacy.",
+            "label4": "LEARN MORE",
+            "link4": {
+              "type": "page",
+              "page": "pg_8rfgsjz5pf"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_x6z4df8021",
+      "preset": "component/imported-home-4@1",
+      "label": "Section (as on the original)",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_vtsvcjnq18",
+          "type": "component/imported-home-4",
+          "v": 1,
+          "fields": {
+            "image1": {
+              "src": "media/2026/10/tumblr-mn8b8slrb61rkz363o1-1280-1wpd.webp",
+              "alt": "tumblr_mn8b8sLRb61rkz363o1_1280.jpg",
+              "width": 960,
+              "height": 720,
+              "mediaId": "med_1wpdwtcej6"
+            },
+            "text2": "TAKE ACTION",
+            "text3": "Ready to take the next step? You can become a contributor to our cause, or participate yourself.",
+            "label4": "FIND OUT HOW",
+            "link4": {
+              "type": "page",
+              "page": "pg_2e4hg1t5c7"
             }
           }
         }

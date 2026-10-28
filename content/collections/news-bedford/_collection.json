@@ -1,0 +1,25 @@
+{
+  "kind": "blog",
+  "label": "News",
+  "list": {
+    "layout": "cards",
+    "pageSize": 12,
+    "sort": "date-desc"
+  },
+  "itemLabel": "Post",
+  "itemPage": {
+    "layout": "article",
+    "showDate": true,
+    "showAuthor": true,
+    "showRelated": true
+  },
+  "taxonomies": {
+    "tags": true
+  },
+  "feed": {
+    "enabled": true,
+    "title": "News",
+    "description": "News"
+  },
+  "slugPattern": "{title}"
+}

@@ -1,0 +1,141 @@
+{
+  "id": "pg_kqc0kst11k",
+  "title": "Home Alt",
+  "slug": "home-alt-bedford",
+  "sections": [
+    {
+      "id": "sec_z2tzgv4sx3",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_0pgs4c6axf",
+          "type": "gallery",
+          "v": 1,
+          "fields": {
+            "images": [
+              {
+                "image": {
+                  "src": "media/2026/10/chambers-2-42qq.webp",
+                  "alt": "A better world   Starts with a choice    Contact Us",
+                  "width": 1280,
+                  "height": 853,
+                  "mediaId": "med_42qq8xs749",
+                  "focal": [
+                    0.41262135922330095,
+                    0.5147058823529411
+                  ]
+                }
+              },
+              {
+                "image": {
+                  "src": "media/2026/10/chambers1-y0sr.webp",
+                  "alt": "Sustainability   Starts with you    Join Us",
+                  "width": 1280,
+                  "height": 853,
+                  "mediaId": "med_y0srge9z5t"
+                }
+              },
+              {
+                "image": {
+                  "src": "media/2026/10/chambers-4-4h72.webp",
+                  "alt": "A better world   Starts with a choice    Join Us",
+                  "width": 1600,
+                  "height": 1066,
+                  "mediaId": "med_4h7264mv1s"
+                }
+              },
+              {
+                "image": {
+                  "src": "media/2026/10/chambers-8-bpqm.webp",
+                  "alt": "Preserve Nature    Join Us",
+                  "width": 1280,
+                  "height": 853,
+                  "mediaId": "med_bpqmd1tt3g"
+                }
+              }
+            ],
+            "aspect": "original",
+            "columns": "3",
+            "lightbox": true,
+            "showCaptions": false
+          },
+          "variant": "slideshow"
+        },
+        {
+          "id": "blk_m40p58yfq6",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This page demonstrates how you can use the Page Slideshow functionality."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "All photography provided by ",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "Jared Chambers",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://www.jaredchambers.com",
+                            "newTab": true
+                          }
+                        },
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ".",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

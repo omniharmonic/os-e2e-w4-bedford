@@ -1,0 +1,242 @@
+{
+  "id": "pg_2e4hg1t5c7",
+  "title": "Take Action",
+  "slug": "take-action-bedford",
+  "seo": {
+    "description": "Take Action"
+  },
+  "sections": [
+    {
+      "id": "sec_et0vbd4f74",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "padding": {
+          "d": "2xl",
+          "m": "xl"
+        },
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/tumblr-migjb4lxob1rkz363o2-1280-2wkg.webp",
+          "focal": [
+            0.523936170212766,
+            0.876
+          ],
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.45
+          }
+        },
+        "minHeight": {
+          "d": "88vh",
+          "m": "80svh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_gjb4g3ayj7",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "Take Action",
+            "level": "h2",
+            "size": "display"
+          },
+          "variant": "plain",
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "preset": "hero/full-bleed-photo@1"
+    },
+    {
+      "id": "sec_kn01p8w32d",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_vxedg37t4j",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You can make a difference. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc facilisis, mauris pharetra gravida placerat, eros sapien mattis leo, ac ullamcorper arcu tellus vitae magna."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_maa15yq83g",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            5,
+            2,
+            5
+          ],
+          "m": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_ve0pedbvf1",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Donate"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Your donation allows us to connect people and create partnerships around the world. We run conservation projects with our partners, seeking the most constructive solutions."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_hf9j6nth5n",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Make A Donation",
+            "link": {
+              "type": "page",
+              "page": "pg_2e4hg1t5c7"
+            },
+            "role": "primary"
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_emq69stywr",
+          "type": "spacer",
+          "v": 1,
+          "fields": {
+            "height": "md"
+          },
+          "column": 1
+        },
+        {
+          "id": "blk_gffdggnwdz",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Spread the Word"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Tell your friends and family about these threatened places. There's no better way to make an impact than to become an active advocate yourself. Join now and make an impact!"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 2
+        },
+        {
+          "id": "blk_j4dsx9ba8d",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "Join the Foundation",
+            "link": {
+              "type": "page",
+              "page": "pg_2q92g891jm"
+            },
+            "role": "primary"
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          },
+          "column": 2
+        }
+      ],
+      "preset": "starter/stack-5-2-5@1"
+    }
+  ]
+}

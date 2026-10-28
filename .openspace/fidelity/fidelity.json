@@ -1,0 +1,4817 @@
+{
+  "score": 75,
+  "exact": 74.82,
+  "pages": [
+    {
+      "path": "/",
+      "original": "https://bedford-demo.squarespace.com/landing-bedford/",
+      "imported": "/ (local preview)",
+      "viewport": 1440,
+      "score": 80,
+      "structure": 81,
+      "exact": 79.93446260277534,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "32px",
+          "imported": "32px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Lead text size",
+          "original": "23px",
+          "imported": "23px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "15px",
+          "imported": "15px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.133em, uppercase",
+          "imported": "0.133em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "13px",
+          "imported": "13px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.154em, uppercase",
+          "imported": "0.154em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "13px",
+          "imported": "13px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.154em, uppercase",
+          "imported": "0.154em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "59px",
+          "imported": "59px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "300px",
+          "imported": "9999px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "648px",
+              "imported": "792px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 1,
+          "heading": "We conserve land through outreach, restoration, and research.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "adobe-garamond-pro 32px",
+              "imported": "EB Garamond 32px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "223px",
+              "imported": "156px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 71
+        },
+        {
+          "index": 2,
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 23px",
+              "imported": "EB Garamond 23px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#13130d",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "2",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 47% wide",
+              "imported": "left, 32% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.33:1",
+              "imported": "1.33:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "385px",
+              "imported": "479px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        },
+        {
+          "index": 3,
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 23px",
+              "imported": "EB Garamond 23px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#13130d",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "2",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 47% wide",
+              "imported": "right, 32% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.33:1",
+              "imported": "1.33:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "385px",
+              "imported": "479px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        }
+      ],
+      "visual": 0.778
+    },
+    {
+      "path": "/",
+      "original": "https://bedford-demo.squarespace.com/landing-bedford/",
+      "imported": "/ (local preview)",
+      "viewport": 390,
+      "score": 74,
+      "structure": 74,
+      "exact": 74.0332115866807,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "30px",
+          "imported": "30.1px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "13px",
+          "imported": "13.1px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.154em, uppercase",
+          "imported": "0.133em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "21.5px",
+          "imported": "51.5px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 22",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "300px",
+          "imported": "9999px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "545px",
+              "imported": "720px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 1,
+          "heading": "We conserve land through outreach, restoration, and research.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "adobe-garamond-pro 30px",
+              "imported": "EB Garamond 30.1px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "396px",
+              "imported": "180px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 71
+        },
+        {
+          "index": 2,
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "262px",
+              "imported": "351px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 3,
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 17.2px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#13130d",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "253px",
+              "imported": "542px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 71
+        },
+        {
+          "index": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 5,
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 17.2px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#000000",
+              "imported": "#13130d",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "253px",
+              "imported": "515px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 71
+        }
+      ],
+      "visual": 0.741
+    },
+    {
+      "path": "/contact-bedford",
+      "original": "https://bedford-demo.squarespace.com/contact-bedford/",
+      "imported": "/contact-bedford (local preview)",
+      "viewport": 1440,
+      "score": 78,
+      "structure": 77,
+      "exact": 78.05849643196859,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "25px",
+          "imported": "25px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "adobe-garamond-pro",
+          "imported": "Sofia Sans",
+          "ok": false,
+          "credit": 0,
+          "fix": "Site Styles → choices.typography.label = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "15px",
+          "imported": "13px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.size = 15",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0.154em, uppercase",
+          "ok": false,
+          "fix": "choices.typography.scale.button = { letterSpacing: 0, case: \"uppercase\" }",
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "13px",
+          "imported": "13px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.154em, uppercase",
+          "imported": "0.154em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "13px",
+          "imported": "13px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.154em, uppercase",
+          "imported": "0.154em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "446px",
+          "imported": "448px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "96px",
+          "imported": "15px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 96",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "507px",
+              "imported": "507px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 1,
+          "heading": "CALL OR VISIT",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "5",
+              "imported": "5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 25% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1159px",
+              "imported": "981px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 85
+        }
+      ],
+      "visual": 0.812
+    },
+    {
+      "path": "/contact-bedford",
+      "original": "https://bedford-demo.squarespace.com/contact-bedford/",
+      "imported": "/contact-bedford (local preview)",
+      "viewport": 390,
+      "score": 62,
+      "structure": 58,
+      "exact": 62.39374035938644,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "25px",
+          "imported": "25px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "adobe-garamond-pro",
+          "imported": "Sofia Sans",
+          "ok": false,
+          "credit": 0,
+          "fix": "Site Styles → choices.typography.label = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "15px",
+          "imported": "13.1px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.sizeMobile = 15",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0.133em, uppercase",
+          "ok": false,
+          "fix": "choices.typography.scale.button = { letterSpacing: 0, case: \"uppercase\" }",
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "42px",
+          "imported": "9px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 42",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "9999px",
+          "ok": false,
+          "fix": "choices.shape = \"sharp\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "449px",
+              "imported": "449px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 1,
+          "heading": "CALL OR VISIT",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "5",
+              "ok": false,
+              "fix": "Fewer columns: merge them into one stack column.",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 67% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "506px",
+              "imported": "855px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 46
+        },
+        {
+          "index": 2,
+          "heading": "EMAIL",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "5",
+              "ok": false,
+              "fix": "Fewer columns: merge them into one stack column.",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "444px",
+              "imported": "855px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 64
+        }
+      ],
+      "visual": 0.743
+    },
+    {
+      "path": "/home-alt-bedford",
+      "original": "https://bedford-demo.squarespace.com/home-alt-bedford/",
+      "imported": "/home-alt-bedford (local preview)",
+      "viewport": 1440,
+      "score": 69,
+      "structure": 74,
+      "exact": 69.17281303393538,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "32px",
+          "imported": "32px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "15px",
+          "imported": "15px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.133em, uppercase",
+          "imported": "0.133em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "13px",
+          "imported": "13px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.154em, uppercase",
+          "imported": "0.154em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "13px",
+          "imported": "13px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.154em, uppercase",
+          "imported": "0.154em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "300px",
+          "imported": "9999px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "A better world STARTS WITH A CHOICE CONT",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "heading": "This page demonstrates how you can use the Page Slideshow functionality.",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "adobe-garamond-pro 32px",
+              "imported": "EB Garamond 32px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "4",
+              "ok": false,
+              "fix": "Fewer columns: merge them into one stack column.",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "85px",
+              "imported": "1176px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        }
+      ],
+      "visual": 0.534
+    },
+    {
+      "path": "/home-alt-bedford",
+      "original": "https://bedford-demo.squarespace.com/home-alt-bedford/",
+      "imported": "/home-alt-bedford (local preview)",
+      "viewport": 390,
+      "score": 59,
+      "structure": 61,
+      "exact": 59.12762393780114,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "30px",
+          "imported": "30.1px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "13px",
+          "imported": "13.1px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.154em, uppercase",
+          "imported": "0.133em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "300px",
+          "imported": "9999px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "A better world STARTS WITH A CHOICE CONT",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "4",
+              "ok": false,
+              "fix": "Fewer columns: merge them into one stack column.",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "108px",
+              "imported": "545px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 40
+        }
+      ],
+      "visual": 0.55
+    },
+    {
+      "path": "/partners-bedford",
+      "original": "https://bedford-demo.squarespace.com/partners-bedford/",
+      "imported": "/partners-bedford (local preview)",
+      "viewport": 1440,
+      "score": 83,
+      "structure": 81,
+      "exact": 82.72511592253227,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "32px",
+          "imported": "32px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "25px",
+          "imported": "25px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "18px",
+          "imported": "15px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.size = 18",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.167em, uppercase",
+          "imported": "0.133em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "13px",
+          "imported": "13px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.154em, uppercase",
+          "imported": "0.154em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "13px",
+          "imported": "13px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.154em, uppercase",
+          "imported": "0.154em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "446px",
+          "imported": "448px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "96px",
+          "imported": "73.5px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "9999px",
+          "ok": false,
+          "fix": "choices.shape = \"sharp\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "507px",
+              "imported": "507px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 1,
+          "heading": "Our partners are so important and we accomplish a lot together etc. Lorem ipsum dolor sit amet, cons",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "adobe-garamond-pro 32px",
+              "imported": "EB Garamond 32px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "4",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1504px",
+              "imported": "378px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 53
+        }
+      ],
+      "visual": 0.879
+    },
+    {
+      "path": "/partners-bedford",
+      "original": "https://bedford-demo.squarespace.com/partners-bedford/",
+      "imported": "/partners-bedford (local preview)",
+      "viewport": 390,
+      "score": 65,
+      "structure": 59,
+      "exact": 65.49827097577584,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "30px",
+          "imported": "30.1px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "25px",
+          "imported": "25px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "18px",
+          "imported": "13.1px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.sizeMobile = 18",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.167em, uppercase",
+          "imported": "0.133em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "39.5px",
+          "imported": "46px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "9999px",
+          "ok": false,
+          "fix": "choices.shape = \"sharp\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "2",
+              "ok": false,
+              "fix": "Fewer columns: merge them into one stack column.",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "449px",
+              "imported": "481px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 33
+        },
+        {
+          "index": 1,
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "288px",
+              "imported": "380px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 2,
+          "heading": "PARTNERS",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#13130d",
+              "ok": false,
+              "fix": "Give the section its own background color (style.background = { type: \"color\", color: \"#ffffff\" }).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 44.1px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 44% wide",
+              "imported": "center, 100% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1:1",
+              "imported": "0.77:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "458px",
+              "imported": "507px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 11
+        },
+        {
+          "index": 3,
+          "heading": "BECOME A PARTNER",
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "168px",
+              "imported": "783px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Name First Name (required) Last Name (re",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 5,
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "307px",
+              "imported": "783px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 80
+        },
+        {
+          "index": 6,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "SUBMIT",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "visual": 0.838
+    },
+    {
+      "path": "/projects-bedford",
+      "original": "https://bedford-demo.squarespace.com/projects-bedford/",
+      "imported": "/projects-bedford (local preview)",
+      "viewport": 1440,
+      "score": 76,
+      "structure": 76,
+      "exact": 75.68844793185393,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "32px",
+          "imported": "32px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "25px",
+          "imported": "25px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "adobe-garamond-pro",
+          "imported": "Sofia Sans",
+          "ok": false,
+          "credit": 0,
+          "fix": "Site Styles → choices.typography.label = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "15px",
+          "imported": "13px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.size = 15",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0.154em, uppercase",
+          "ok": false,
+          "fix": "choices.typography.scale.button = { letterSpacing: 0, case: \"uppercase\" }",
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "13px",
+          "imported": "13px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.154em, uppercase",
+          "imported": "0.154em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "13px",
+          "imported": "13px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.154em, uppercase",
+          "imported": "0.154em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "446px",
+          "imported": "448px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "96px",
+          "imported": "29.5px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 96",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "507px",
+              "imported": "507px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 1,
+          "heading": "Here's just a small sampling of the natural treasures we've helped preserve over the years.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "adobe-garamond-pro 32px",
+              "imported": "EB Garamond 32px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 69% wide",
+              "imported": "center, 31% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.22:1",
+              "imported": "1.22:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "2461px",
+              "imported": "1705px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 78
+        }
+      ],
+      "visual": 0.74
+    },
+    {
+      "path": "/projects-bedford",
+      "original": "https://bedford-demo.squarespace.com/projects-bedford/",
+      "imported": "/projects-bedford (local preview)",
+      "viewport": 390,
+      "score": 76,
+      "structure": 75,
+      "exact": 76.33469670805397,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "30px",
+          "imported": "30.1px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "25px",
+          "imported": "25px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "adobe-garamond-pro",
+          "imported": "Sofia Sans",
+          "ok": false,
+          "credit": 0,
+          "fix": "Site Styles → choices.typography.label = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "15px",
+          "imported": "13.1px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.sizeMobile = 15",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0.133em, uppercase",
+          "ok": false,
+          "fix": "choices.typography.scale.button = { letterSpacing: 0, case: \"uppercase\" }",
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "42px",
+          "imported": "18px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 42",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "9999px",
+          "ok": false,
+          "fix": "choices.shape = \"sharp\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "449px",
+              "imported": "449px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 1,
+          "heading": "Here's just a small sampling of the natural treasures we've helped preserve over the years.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "adobe-garamond-pro 30px",
+              "imported": "EB Garamond 30.1px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 91% wide",
+              "imported": "center, 87% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.22:1",
+              "imported": "1.22:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1715px",
+              "imported": "1458px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 95
+        }
+      ],
+      "visual": 0.803
+    },
+    {
+      "path": "/read-me-bedford",
+      "original": "https://bedford-demo.squarespace.com/read-me-bedford/",
+      "imported": "/read-me-bedford (local preview)",
+      "viewport": 1440,
+      "score": 88,
+      "structure": 89,
+      "exact": 88.38008077904882,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "32px",
+          "imported": "32px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "25px",
+          "imported": "25px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "16px",
+          "imported": "16px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "15px",
+          "imported": "15px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.133em, uppercase",
+          "imported": "0.133em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "13px",
+          "imported": "13px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.154em, uppercase",
+          "imported": "0.154em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "13px",
+          "imported": "13px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.154em, uppercase",
+          "imported": "0.154em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "956px",
+          "imported": "1280px",
+          "ok": false,
+          "fix": "choices.layout.contentWidth = 956",
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "66.5px",
+          "imported": "59px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "300px",
+          "imported": "9999px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "716px",
+              "imported": "792px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 1,
+          "heading": "Template Features",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "adobe-garamond-pro 32px",
+              "imported": "EB Garamond 32px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "246px",
+              "imported": "186px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        },
+        {
+          "index": 2,
+          "heading": "BANNER AREA",
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1334px",
+              "imported": "1075px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 3,
+          "heading": "SIDEBAR",
+          "importedIndex": 6,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "243px",
+              "imported": "330px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 4,
+          "heading": "INDEX",
+          "importedIndex": 8,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "254px",
+              "imported": "275px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 5,
+          "heading": "Style Editor Options",
+          "importedIndex": 9,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "adobe-garamond-pro 32px",
+              "imported": "EB Garamond 32px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "627px",
+              "imported": "186px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 53
+        },
+        {
+          "index": 6,
+          "heading": "SITE NAVIGATION",
+          "importedIndex": 12,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "376px",
+              "imported": "389px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 7,
+          "heading": "BANNER SECTION",
+          "importedIndex": 14,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "376px",
+              "imported": "389px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 8,
+          "heading": "MAIN CONTENT",
+          "importedIndex": 16,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "300px",
+              "imported": "318px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 9,
+          "heading": "SIDEBAR",
+          "importedIndex": 18,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "300px",
+              "imported": "289px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 10,
+          "heading": "PREFOOTER",
+          "importedIndex": 20,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "120px",
+              "imported": "176px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 11,
+          "heading": "FOOTER",
+          "importedIndex": 22,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "300px",
+              "imported": "318px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 12,
+          "heading": "BLOG",
+          "importedIndex": 24,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "225px",
+              "imported": "247px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 13,
+          "heading": "GALLERY STYLES",
+          "importedIndex": 26,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "765px",
+              "imported": "673px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 14,
+          "heading": "EVENT STYLES",
+          "importedIndex": 28,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "689px",
+              "imported": "602px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 15,
+          "heading": "PRODUCT STYLES",
+          "importedIndex": 30,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "588px",
+              "imported": "531px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 16,
+          "importedIndex": 31,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "63px",
+              "imported": "176px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 86
+        }
+      ],
+      "visual": 0.866
+    },
+    {
+      "path": "/read-me-bedford",
+      "original": "https://bedford-demo.squarespace.com/read-me-bedford/",
+      "imported": "/read-me-bedford (local preview)",
+      "viewport": 390,
+      "score": 86,
+      "structure": 88,
+      "exact": 86.48346368534506,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "30px",
+          "imported": "30.1px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "25px",
+          "imported": "25px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "16px",
+          "imported": "16px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "13px",
+          "imported": "13.1px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.154em, uppercase",
+          "imported": "0.133em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "34.5px",
+          "imported": "35.5px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "300px",
+          "imported": "9999px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "575px",
+              "imported": "720px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 1,
+          "heading": "Template Features",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "adobe-garamond-pro 30px",
+              "imported": "EB Garamond 30.1px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "318px",
+              "imported": "128px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 81
+        },
+        {
+          "index": 2,
+          "heading": "BANNER AREA",
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1743px",
+              "imported": "1406px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 3,
+          "heading": "SIDEBAR",
+          "importedIndex": 6,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "480px",
+              "imported": "489px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 4,
+          "heading": "INDEX",
+          "importedIndex": 8,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "433px",
+              "imported": "434px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 5,
+          "heading": "Style Editor Options",
+          "importedIndex": 9,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "adobe-garamond-pro 30px",
+              "imported": "EB Garamond 30.1px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "925px",
+              "imported": "128px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 81
+        },
+        {
+          "index": 6,
+          "heading": "SITE NAVIGATION",
+          "importedIndex": 12,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "745px",
+              "imported": "751px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 7,
+          "heading": "BANNER SECTION",
+          "importedIndex": 14,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "440px",
+              "imported": "751px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 8,
+          "importedIndex": 14,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "266px",
+              "imported": "751px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 9,
+          "heading": "MAIN CONTENT",
+          "importedIndex": 16,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "278px",
+              "imported": "536px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 10,
+          "importedIndex": 16,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "209px",
+              "imported": "536px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 11,
+          "heading": "SIDEBAR",
+          "importedIndex": 18,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "307px",
+              "imported": "522px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 12,
+          "importedIndex": 18,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "196px",
+              "imported": "522px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 13,
+          "heading": "PREFOOTER",
+          "importedIndex": 20,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "276px",
+              "imported": "309px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 14,
+          "heading": "FOOTER",
+          "importedIndex": 22,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "336px",
+              "imported": "593px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 15,
+          "importedIndex": 22,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "214px",
+              "imported": "593px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 16,
+          "heading": "BLOG",
+          "importedIndex": 24,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "352px",
+              "imported": "409px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 17,
+          "heading": "GALLERY STYLES",
+          "importedIndex": 26,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "685px",
+              "imported": "1262px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 18,
+          "importedIndex": 26,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "572px",
+              "imported": "1262px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 19,
+          "heading": "EVENT STYLES",
+          "importedIndex": 28,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "609px",
+              "imported": "1162px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 20,
+          "importedIndex": 28,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "540px",
+              "imported": "1162px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 21,
+          "heading": "PRODUCT STYLES",
+          "importedIndex": 30,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 25px",
+              "imported": "Sofia Sans 25px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "536px",
+              "imported": "1035px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 22,
+          "importedIndex": 30,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "392px",
+              "imported": "1035px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 23,
+          "importedIndex": 31,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafaf6",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#21211a",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "120px",
+              "imported": "158px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 97
+        }
+      ],
+      "visual": 0.823
+    }
+  ]
+}

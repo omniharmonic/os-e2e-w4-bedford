@@ -1,0 +1,302 @@
+{
+  "id": "pg_mm5zcmfre1",
+  "title": "Partners",
+  "slug": "partners-bedford",
+  "seo": {
+    "description": "Partners"
+  },
+  "sections": [
+    {
+      "id": "sec_86xrz95z90",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "padding": {
+          "d": "none"
+        },
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/chambers-10-w0c5.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.45
+          }
+        },
+        "minHeight": {
+          "d": "507px"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_h807k1btct",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "Partners",
+            "level": "h2",
+            "size": "display"
+          },
+          "variant": "plain",
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "preset": "hero/full-bleed-photo@1"
+    },
+    {
+      "id": "sec_6hx6y3hect",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_zac28n618h",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Our partners are so important and we accomplish a lot together etc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc facilisis, mauris pharetra gravida placerat, eros sapien mattis leo."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_ymrt9e3v4x",
+          "type": "line",
+          "v": 1,
+          "fields": {
+            "thickness": "hairline",
+            "length": "full",
+            "color": "border"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_n6z2d04d94",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_bd0mqze8ab",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Partners"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_7r1jfvt5mn",
+          "type": "gallery",
+          "v": 1,
+          "fields": {
+            "images": [
+              {
+                "image": {
+                  "src": "media/2026/10/logo-2-7x0w.webp",
+                  "alt": "",
+                  "width": 400,
+                  "height": 400,
+                  "mediaId": "med_7x0wxd8yyb"
+                }
+              },
+              {
+                "image": {
+                  "src": "media/2026/10/logo-4-eybm.webp",
+                  "alt": "",
+                  "width": 400,
+                  "height": 400,
+                  "mediaId": "med_eybmvfd97r"
+                }
+              },
+              {
+                "image": {
+                  "src": "media/2026/10/logo-1-ywn9.webp",
+                  "alt": "",
+                  "width": 400,
+                  "height": 400,
+                  "mediaId": "med_ywn9de6rmj"
+                }
+              },
+              {
+                "image": {
+                  "src": "media/2026/10/logo-3-d8ns.webp",
+                  "alt": "",
+                  "width": 400,
+                  "height": 400,
+                  "mediaId": "med_d8ns9zbg6q"
+                }
+              }
+            ],
+            "aspect": "1:1",
+            "columns": "4",
+            "lightbox": true,
+            "showCaptions": false
+          },
+          "variant": "grid"
+        },
+        {
+          "id": "blk_rzfhygbpnq",
+          "type": "line",
+          "v": 1,
+          "fields": {
+            "thickness": "hairline",
+            "length": "full",
+            "color": "border"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_n1ntazfe3s",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_fd7hrtzy2t",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Become a Partner"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "If you would like to partner with us, fill out the form below and one of our staff members will get back to you."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_ge00wvek77",
+          "type": "form",
+          "v": 1,
+          "fields": {
+            "form": {
+              "id": "frm_84n35vjtst",
+              "name": "New Form",
+              "fields": [
+                {
+                  "name": "name",
+                  "label": "Name",
+                  "required": true,
+                  "type": "text"
+                },
+                {
+                  "name": "email_address",
+                  "label": "Email Address",
+                  "required": true,
+                  "type": "email"
+                },
+                {
+                  "name": "organization_name",
+                  "label": "Organization Name",
+                  "required": true,
+                  "type": "text"
+                },
+                {
+                  "name": "comments_optional",
+                  "label": "Comments (Optional)",
+                  "type": "textarea"
+                }
+              ],
+              "submitLabel": "Submit",
+              "success": {
+                "type": "message",
+                "message": "Thank you!"
+              },
+              "notifyOwner": true
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

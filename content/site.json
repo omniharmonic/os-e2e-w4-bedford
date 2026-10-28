@@ -1,39 +1,104 @@
 {
-  "$schema": "https://schema.openspace.host/v1/site.json",
-  "title": "os-e2e-w4-bedford",
+  "title": "Bedford",
+  "tagline": "Sustainability   Starts with you    Learn More",
+  "logo": {
+    "src": "media/2026/10/bedford-foundation-c547.webp",
+    "alt": "Bedford",
+    "width": 1500,
+    "height": 649
+  },
   "nav": [
     {
       "type": "page",
-      "page": "pg_ee3wxhxj9w",
+      "page": "pg_y9mbf56tv7",
       "label": "Home"
+    },
+    {
+      "type": "folder",
+      "label": "About",
+      "items": [
+        {
+          "type": "page",
+          "page": "pg_8rfgsjz5pf",
+          "label": "What We Do"
+        },
+        {
+          "type": "page",
+          "page": "pg_4s4ztm9kw1",
+          "label": "Projects"
+        },
+        {
+          "type": "page",
+          "page": "pg_mm5zcmfre1",
+          "label": "Partners"
+        },
+        {
+          "type": "page",
+          "page": "pg_2q92g891jm",
+          "label": "Contact"
+        }
+      ]
+    },
+    {
+      "type": "collection",
+      "collection": "news-bedford",
+      "label": "News"
+    },
+    {
+      "type": "page",
+      "page": "pg_xn1npdwv2d",
+      "label": "Read Me"
+    },
+    {
+      "type": "page",
+      "page": "pg_2e4hg1t5c7",
+      "label": "Take Action"
     }
   ],
   "header": {
     "variant": "classic-left",
+    "logoHeight": {
+      "d": 61,
+      "m": 50
+    },
     "sticky": false,
-    "transparentOnHero": false,
-    "mobileMenu": "slide"
+    "transparentOnHero": true,
+    "mobileMenu": "fullscreen"
   },
   "footer": {
-    "id": "sec_p16cp0ypwh",
+    "id": "sec_f7vzyfp46s",
     "layout": {
       "mode": "stack",
       "columns": {
         "d": [
           12
         ]
-      },
-      "align": "center"
+      }
     },
     "style": {
-      "colorTheme": "light",
-      "padding": {
-        "d": "md"
+      "colorTheme": "dark",
+      "background": {
+        "type": "color",
+        "color": "#1f1f1f"
       }
     },
     "blocks": [
       {
-        "id": "blk_dfv3nsvgkm",
+        "id": "blk_9sgrm861dn",
+        "type": "newsletter",
+        "v": 1,
+        "fields": {
+          "askName": false,
+          "placeholder": "Email Address",
+          "buttonLabel": "Sign Up",
+          "successMessage": "Thank you!",
+          "heading": "Subscribe",
+          "description": "Sign up with your email address to receive news and updates."
+        },
+        "variant": "stacked"
+      },
+      {
+        "id": "blk_bn0zjh9x0g",
         "type": "text",
         "v": 1,
         "fields": {
@@ -45,7 +110,35 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "os-e2e-w4-bedford"
+                    "text": "459 Broadway, New York · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "(212) 555-0123",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "tel:2125550123"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " · "
+                  },
+                  {
+                    "type": "text",
+                    "text": "template.placeholder@gmail.com",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "mailto:template.placeholder@gmail.com"
+                        }
+                      }
+                    ]
                   }
                 ]
               }
@@ -53,7 +146,46 @@
           }
         }
       }
-    ]
+    ],
+    "label": "Footer"
   },
-  "locale": "en"
+  "social": [
+    {
+      "network": "email",
+      "url": "mailto:template.placeholder@gmail.com"
+    }
+  ],
+  "seo": {
+    "titleTemplate": "%s — Bedford",
+    "description": "Sustainability   Starts with you    Learn More",
+    "image": "media/2026/10/bedford-foundation-c547.webp"
+  },
+  "locale": "en-US",
+  "integrations": {
+    "analytics": false,
+    "bookingUrl": null,
+    "stripeConnected": false
+  },
+  "redirects": [
+    {
+      "from": "/news-bedford/2014/1/23/get-out-there",
+      "to": "/news-bedford/get-out-there/",
+      "status": 301
+    },
+    {
+      "from": "/news-bedford/2014/1/23/why-deserts-matter-too",
+      "to": "/news-bedford/why-deserts-matter-too/",
+      "status": 301
+    },
+    {
+      "from": "/news-bedford/2014/1/23/appalachia",
+      "to": "/news-bedford/appalachia/",
+      "status": 301
+    },
+    {
+      "from": "/landing-bedford",
+      "to": "/",
+      "status": 301
+    }
+  ]
 }
