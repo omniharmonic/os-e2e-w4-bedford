@@ -57,16 +57,17 @@
   ],
   "header": {
     "variant": "classic-left",
+    "sticky": false,
+    "transparentOnHero": true,
+    "mobileMenu": "fullscreen",
     "logoHeight": {
       "d": 61,
       "m": 50
-    },
-    "sticky": false,
-    "transparentOnHero": true,
-    "mobileMenu": "fullscreen"
+    }
   },
   "footer": {
     "id": "sec_f7vzyfp46s",
+    "label": "Footer",
     "layout": {
       "mode": "stack",
       "columns": {
@@ -146,8 +147,7 @@
           }
         }
       }
-    ],
-    "label": "Footer"
+    ]
   },
   "social": [
     {

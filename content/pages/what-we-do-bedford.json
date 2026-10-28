@@ -8,6 +8,7 @@
   "sections": [
     {
       "id": "sec_mxxnvv2q00",
+      "preset": "hero/full-bleed-photo@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -23,6 +24,10 @@
           "d": "2xl",
           "m": "xl"
         },
+        "minHeight": {
+          "d": "88vh",
+          "m": "80svh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/10/tumblr-mh1iruzwlf1rkz363o1-1280-evpk.webp",
@@ -34,10 +39,6 @@
             "color": "#000000",
             "opacity": 0.45
           }
-        },
-        "minHeight": {
-          "d": "88vh",
-          "m": "80svh"
         }
       },
       "blocks": [
@@ -57,11 +58,11 @@
             }
           }
         }
-      ],
-      "preset": "hero/full-bleed-photo@1"
+      ]
     },
     {
       "id": "sec_mtn5zxk3b4",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -128,11 +129,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_qn10kegyh6",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -220,11 +221,11 @@
             "color": "border"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_q20p89y1eq",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -261,11 +262,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_xr5pt6z354",
+      "preset": "starter/stack-6-6@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -286,6 +287,7 @@
           "id": "blk_jgkmzz8vd3",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -353,13 +355,13 @@
                 }
               ]
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_b3ppvxt82m",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -427,11 +429,9 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1"
+      ]
     }
   ]
 }

@@ -8,6 +8,7 @@
   "sections": [
     {
       "id": "sec_et0vbd4f74",
+      "preset": "hero/full-bleed-photo@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -23,6 +24,10 @@
           "d": "2xl",
           "m": "xl"
         },
+        "minHeight": {
+          "d": "88vh",
+          "m": "80svh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/10/tumblr-migjb4lxob1rkz363o2-1280-2wkg.webp",
@@ -34,10 +39,6 @@
             "color": "#000000",
             "opacity": 0.45
           }
-        },
-        "minHeight": {
-          "d": "88vh",
-          "m": "80svh"
         }
       },
       "blocks": [
@@ -57,11 +58,11 @@
             }
           }
         }
-      ],
-      "preset": "hero/full-bleed-photo@1"
+      ]
     },
     {
       "id": "sec_kn01p8w32d",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -98,11 +99,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_maa15yq83g",
+      "preset": "starter/stack-5-2-5@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -124,6 +125,7 @@
           "id": "blk_ve0pedbvf1",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -151,13 +153,13 @@
                 }
               ]
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_hf9j6nth5n",
           "type": "button",
           "v": 1,
+          "column": 0,
           "fields": {
             "label": "Make A Donation",
             "link": {
@@ -170,22 +172,22 @@
             "align": {
               "d": "center"
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_emq69stywr",
           "type": "spacer",
           "v": 1,
+          "column": 1,
           "fields": {
             "height": "md"
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_gffdggnwdz",
           "type": "text",
           "v": 1,
+          "column": 2,
           "fields": {
             "content": {
               "type": "doc",
@@ -213,13 +215,13 @@
                 }
               ]
             }
-          },
-          "column": 2
+          }
         },
         {
           "id": "blk_j4dsx9ba8d",
           "type": "button",
           "v": 1,
+          "column": 2,
           "fields": {
             "label": "Join the Foundation",
             "link": {
@@ -232,11 +234,9 @@
             "align": {
               "d": "center"
             }
-          },
-          "column": 2
+          }
         }
-      ],
-      "preset": "starter/stack-5-2-5@1"
+      ]
     }
   ]
 }

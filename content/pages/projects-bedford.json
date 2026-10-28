@@ -8,6 +8,7 @@
   "sections": [
     {
       "id": "sec_7p343msq74",
+      "preset": "hero/full-bleed-photo@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -23,6 +24,10 @@
           "d": "none",
           "m": "none"
         },
+        "minHeight": {
+          "d": "507px",
+          "m": "449px"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/10/tumblr-mjdttrqloj1rkz363o7-1280-z65z.webp",
@@ -30,10 +35,6 @@
             "color": "#000000",
             "opacity": 0.45
           }
-        },
-        "minHeight": {
-          "d": "507px",
-          "m": "449px"
         }
       },
       "blocks": [
@@ -53,8 +54,7 @@
             }
           }
         }
-      ],
-      "preset": "hero/full-bleed-photo@1"
+      ]
     },
     {
       "id": "sec_erdthht4t0",

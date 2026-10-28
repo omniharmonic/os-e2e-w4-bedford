@@ -55,20 +55,20 @@
         },
         "h3": {
           "size": 16,
+          "sizeMobile": 16,
           "lineHeight": 1.16,
           "letterSpacing": 0.125,
           "case": "uppercase",
-          "font": "label",
           "weight": 400,
-          "sizeMobile": 16
+          "font": "label"
         },
         "h4": {
           "size": 21.4,
           "lineHeight": 1.23,
           "letterSpacing": 0,
           "case": "none",
-          "font": "heading",
-          "weight": 400
+          "weight": 400,
+          "font": "heading"
         },
         "display": {
           "size": 68,
@@ -113,30 +113,30 @@
         "h2": {
           "size": 25,
           "sizeMobile": 25,
-          "font": "label",
+          "letterSpacing": 0.05,
           "case": "uppercase",
-          "letterSpacing": 0.05
+          "font": "label"
         }
       }
     },
     "layout": {
+      "narrowWidth": 448,
       "sectionPadding": 59,
-      "sectionPaddingMobile": 35,
-      "narrowWidth": 448
+      "sectionPaddingMobile": 35
     }
   },
   "overrides": {
     "color": {
       "dark": {
         "accent": {
-          "$type": "color",
-          "$value": "#36b3a8"
+          "$value": "#36b3a8",
+          "$type": "color"
         }
       },
       "light": {
         "accent": {
-          "$type": "color",
-          "$value": "#27aa9f"
+          "$value": "#27aa9f",
+          "$type": "color"
         }
       }
     }

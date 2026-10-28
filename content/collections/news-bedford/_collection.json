@@ -1,12 +1,13 @@
 {
   "kind": "blog",
   "label": "News",
+  "itemLabel": "Post",
+  "slugPattern": "{title}",
   "list": {
     "layout": "cards",
     "pageSize": 12,
     "sort": "date-desc"
   },
-  "itemLabel": "Post",
   "itemPage": {
     "layout": "article",
     "showDate": true,
@@ -20,6 +21,5 @@
     "enabled": true,
     "title": "News",
     "description": "News"
-  },
-  "slugPattern": "{title}"
+  }
 }

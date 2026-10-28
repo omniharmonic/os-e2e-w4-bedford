@@ -5,6 +5,7 @@
   "sections": [
     {
       "id": "sec_z2tzgv4sx3",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -134,8 +135,7 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     }
   ]
 }

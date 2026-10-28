@@ -10,6 +10,7 @@
   "sections": [
     {
       "id": "sec_cr1t3ey0zp",
+      "preset": "hero/full-bleed-photo@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -25,6 +26,10 @@
           "d": "2xl",
           "m": "xl"
         },
+        "minHeight": {
+          "d": "88vh",
+          "m": "80svh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/10/image-asset-6eq8.webp",
@@ -32,10 +37,6 @@
             "color": "#000000",
             "opacity": 0.7
           }
-        },
-        "minHeight": {
-          "d": "88vh",
-          "m": "80svh"
         }
       },
       "blocks": [
@@ -75,11 +76,11 @@
             }
           }
         }
-      ],
-      "preset": "hero/full-bleed-photo@1"
+      ]
     },
     {
       "id": "sec_1nyghqn3rd",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -121,11 +122,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_ygsn57azsa",
+      "preset": "starter/stack-2-8-2@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -147,6 +148,7 @@
           "id": "blk_k58xv4qnhw",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -197,11 +199,9 @@
             "align": {
               "d": "center"
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-2-8-2@1"
+      ]
     },
     {
       "id": "sec_j2bvs2rqhd",
@@ -226,13 +226,10 @@
           "v": 1,
           "fields": {
             "image1": {
-              "src": "media/2026/10/image-asset-3xzg.webp",
-              "alt": "",
-              "width": 959,
-              "height": 719,
-              "mediaId": "med_3xzgq7kz0q"
+              "src": "media/2026/10/garden-45e735f8.jpg",
+              "alt": ""
             },
-            "text2": "ABOUT",
+            "text2": "Find out who we are, how we work, and thirty years of results.",
             "text3": "Find out about our organization, mission, our methods, and the results of our decades of advocacy.",
             "label4": "LEARN MORE",
             "link4": {
