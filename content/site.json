@@ -1,0 +1,59 @@
+{
+  "$schema": "https://schema.openspace.host/v1/site.json",
+  "title": "os-e2e-w4-bedford",
+  "nav": [
+    {
+      "type": "page",
+      "page": "pg_ee3wxhxj9w",
+      "label": "Home"
+    }
+  ],
+  "header": {
+    "variant": "classic-left",
+    "sticky": false,
+    "transparentOnHero": false,
+    "mobileMenu": "slide"
+  },
+  "footer": {
+    "id": "sec_p16cp0ypwh",
+    "layout": {
+      "mode": "stack",
+      "columns": {
+        "d": [
+          12
+        ]
+      },
+      "align": "center"
+    },
+    "style": {
+      "colorTheme": "light",
+      "padding": {
+        "d": "md"
+      }
+    },
+    "blocks": [
+      {
+        "id": "blk_dfv3nsvgkm",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "os-e2e-w4-bedford"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "locale": "en"
+}

@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "id": "imp_nmthc8kctq",
+  "siteId": "st_nbbfkz964w",
+  "hub": "https://hub.openspace.host",
+  "mode": "url",
+  "source": "https://bedford-demo.squarespace.com/",
+  "platform": "auto",
+  "owner": true,
+  "render": false,
+  "attempt": 1
+}
